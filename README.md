@@ -18,6 +18,7 @@
 ## 联系我们
 QQ群:830495919
 点击链接加入群聊【蜻听客服用户交流群】：https://jq.qq.com/?_wv=1027&k=vucTPdxE
+[QQ](https://qm.qq.com/cgi-bin/qm/qr?k=UaCAuCzhW-Ha1eh3Ya4jSiDQyX-cudpg&jump_from=webapi)
 
 ```
 first one readme.md
