@@ -1,7 +1,7 @@
-[主页](http://www.qingtinger.com)　
+[主页](https://qingtinger.com/)　
 # 蜻听客服: 属于自己的客服系统
 
-[http://www.qingtinger.com](http://www.qingtinger.com)|[Gitee](https://gitee.com/qianyuanshenke/simple-qingting)
+[https://qingtinger.com/](https://qingtinger.com/)|[ Gitee](https://gitee.com/qianyuanshenke/simple-qingting)
 ```
 first one readme.md
 ```
